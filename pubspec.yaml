@@ -18,7 +18,7 @@ dependencies:
   flutter:
     sdk: flutter
   # Flutter window webview
-  webview_windows: ^0.2.2
+  webview_windows: ^0.3.0
   # Barcode scanner for android and ios
   flutter_barcode_scanner: ^2.0.0
   #Get assets path for window platform
